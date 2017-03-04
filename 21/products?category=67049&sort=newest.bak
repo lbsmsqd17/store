@@ -1,0 +1,246 @@
+{
+	"metadata": {
+		"links": {
+			"first": "http:\/\/77.93.198.186\/v1.2\/21\/products?category=67049&sort=newest",
+			"last": "http:\/\/77.93.198.186\/v1.2\/21\/products?category=67049&sort=newest",
+			"prev": null,
+			"next": null,
+			"self": "http:\/\/77.93.198.186\/v1.2\/21\/products?category=67049&sort=newest"
+		},
+		"filters": [{
+			"id": 1,
+			"name": "Color",
+			"label": "color",
+			"type": "color",
+			"values": [{
+				"id": 38296,
+				"value": "Black",
+				"code": "#000000",
+				"img": null
+			}, {
+				"id": 38342,
+				"value": "Black-beige",
+				"code": "",
+				"img": "http:\/\/img.bfashion.com\/color\/original\/486cc17b5916f14a7cc0853b2d9f75ef75f4bee1.png"
+			}, {
+				"id": 38328,
+				"value": "Black-red",
+				"code": "",
+				"img": "http:\/\/img.bfashion.com\/color\/original\/94852947375f48c68a05899324e4aeb42c77078f.png"
+			}, {
+				"id": 38340,
+				"value": "Blue-white",
+				"code": "",
+				"img": "http:\/\/img.bfashion.com\/color\/original\/62b477526aeb8eb191182bd1b56681dabc5873bb.png"
+			}, {
+				"id": 38313,
+				"value": "Dark blue",
+				"code": "#050350",
+				"img": null
+			}, {
+				"id": 38325,
+				"value": "Multicolour",
+				"code": "",
+				"img": "http:\/\/img.bfashion.com\/color\/original\/0e2dcbb1c32227887be13479beb113e06a236402.jpg"
+			}, {
+				"id": 38308,
+				"value": "Pink",
+				"code": "#ff7e94",
+				"img": null
+			}, {
+				"id": 38306,
+				"value": "White",
+				"code": "#ffffff",
+				"img": null
+			}, {
+				"id": 38339,
+				"value": "White-blue",
+				"code": "",
+				"img": "http:\/\/img.bfashion.com\/color\/original\/8bef5887babd6ce45c0189b7e4fe1f04b9c6c963.png"
+			}]
+		}, {
+			"id": 2,
+			"name": "Size",
+			"label": "size",
+			"type": "select",
+			"values": [{
+				"id": 36771,
+				"value": "36"
+			}, {
+				"id": 36772,
+				"value": "37"
+			}, {
+				"id": 36773,
+				"value": "38"
+			}, {
+				"id": 36774,
+				"value": "39"
+			}, {
+				"id": 36775,
+				"value": "40"
+			}, {
+				"id": 36776,
+				"value": "41"
+			}]
+		}, {
+			"id": 3,
+			"name": "Price",
+			"label": "price",
+			"type": "range",
+			"values": [719, 999, "$"]
+		}, {
+			"id": 4,
+			"name": "Brand",
+			"label": "brand",
+			"type": "select",
+			"values": []
+		}],
+		"sorting": "newest",
+		"records_count": 8
+	},
+	"records": [{
+		"id": 6001631,
+		"remote_id": 38449,
+		"url": "http:\/\/cz.bfashion.com\/boty-z-prave-kuze\/tendenz-d%C3%A1msk%C3%A9-letn%C3%AD-boty-z-prav%C3%A9-k%C5%AF%C5%BEe-38449",
+		"name": "Female summer shoes made of genuine leather",
+		"price": 749,
+		"price_formatted": "$749.00",
+		"category": 67049,
+		"brand": "TENDENZ",
+		"discount_price": 749,
+		"discount_price_formatted": "$749.00",
+		"currency": "USD",
+		"code": "D038449",
+		"description": "You can add a description of the product to the feed and it will appear exactly here.",
+		"main_image": "http:\/\/img.bfashion.com\/products\/presentation\/161ff9e3127f5c631bebbb56fd238f6f.jpg",
+		"main_image_high_res": "http:\/\/img.bfashion.com\/products\/big\/161ff9e3127f5c631bebbb56fd238f6f.jpg",
+		"images": [],
+		"variants": []
+	}, {
+		"id": 6001629,
+		"remote_id": 38447,
+		"url": "http:\/\/cz.bfashion.com\/boty-z-prave-kuze\/tendenz-d%C3%A1msk%C3%A9-tenisky-z-prav%C3%A9-k%C5%AF%C5%BEe-38447",
+		"name": "Womens sneakers made of genuine leather",
+		"price": 799,
+		"price_formatted": "$799.00",
+		"category": 67049,
+		"brand": "TENDENZ",
+		"discount_price": 799,
+		"discount_price_formatted": "$799.00",
+		"currency": "USD",
+		"code": "D038447",
+		"description": "You can add a description of the product to the feed and it will appear exactly here.",
+		"main_image": "http:\/\/img.bfashion.com\/products\/presentation\/59e96a68155afc4afa84e641fbbe9389.jpg",
+		"main_image_high_res": "http:\/\/img.bfashion.com\/products\/big\/59e96a68155afc4afa84e641fbbe9389.jpg",
+		"images": [],
+		"variants": []
+	}, {
+		"id": 6001626,
+		"remote_id": 38444,
+		"url": "http:\/\/cz.bfashion.com\/boty-z-prave-kuze\/tendenz-d%C3%A1msk%C3%A9-boty-z-prav%C3%A9-k%C5%AF%C5%BEe-38444",
+		"name": "Women's shoes made of genuine leather",
+		"price": 799,
+		"price_formatted": "$799.00",
+		"category": 67049,
+		"brand": "TENDENZ",
+		"discount_price": 799,
+		"discount_price_formatted": "$799.00",
+		"currency": "USD",
+		"code": "D038444",
+		"description": "You can add a description of the product to the feed and it will appear exactly here.",
+		"main_image": "http:\/\/img.bfashion.com\/products\/presentation\/9b2301b00bc2aa9fbe087bccaf2b0128.jpg",
+		"main_image_high_res": "http:\/\/img.bfashion.com\/products\/big\/9b2301b00bc2aa9fbe087bccaf2b0128.jpg",
+		"images": [],
+		"variants": []
+	}, {
+		"id": 6001625,
+		"remote_id": 38443,
+		"url": "http:\/\/cz.bfashion.com\/boty-z-prave-kuze\/tendenz-d%C3%A1msk%C3%A9-boty-z-prav%C3%A9-k%C5%AF%C5%BEe-38443",
+		"name": "Women's shoes made of genuine leather",
+		"price": 799,
+		"price_formatted": "$799.00",
+		"category": 67049,
+		"brand": "TENDENZ",
+		"discount_price": 799,
+		"discount_price_formatted": "$799.00",
+		"currency": "USD",
+		"code": "D038443",
+		"description": "You can add a description of the product to the feed and it will appear exactly here.",
+		"main_image": "http:\/\/img.bfashion.com\/products\/presentation\/92e4001452162748d835396c87f6d96a.jpg",
+		"main_image_high_res": "http:\/\/img.bfashion.com\/products\/big\/92e4001452162748d835396c87f6d96a.jpg",
+		"images": [],
+		"variants": []
+	}, {
+		"id": 6001624,
+		"remote_id": 38442,
+		"url": "http:\/\/cz.bfashion.com\/boty-z-prave-kuze\/tendenz-d%C3%A1msk%C3%A9-boty-z-prav%C3%A9-k%C5%AF%C5%BEe-38442",
+		"name": "Women's shoes made of genuine leather",
+		"price": 749,
+		"price_formatted": "$749.00",
+		"category": 67049,
+		"brand": "TENDENZ",
+		"discount_price": 749,
+		"discount_price_formatted": "$749.00",
+		"currency": "USD",
+		"code": "D038442",
+		"description": "You can add a description of the product to the feed and it will appear exactly here.",
+		"main_image": "http:\/\/img.bfashion.com\/products\/presentation\/a3c6a7dc063072e3ac46bcb12561d040.jpg",
+		"main_image_high_res": "http:\/\/img.bfashion.com\/products\/big\/a3c6a7dc063072e3ac46bcb12561d040.jpg",
+		"images": [],
+		"variants": []
+	}, {
+		"id": 5999796,
+		"remote_id": 22862,
+		"url": "http:\/\/cz.bfashion.com\/boty-z-prave-kuze\/buffalo-london-Boty+-na+-vysok%C3%A9m-+podpatku-buffalo-london-22862",
+		"name": "High heels",
+		"price": 1799,
+		"price_formatted": "$1,799.00",
+		"category": 67049,
+		"brand": "Buffalo London",
+		"discount_price": 719,
+		"discount_price_formatted": "$719.00",
+		"currency": "USD",
+		"code": "D022862",
+		"description": "You can add a description of the product to the feed and it will appear exactly here.",
+		"main_image": "http:\/\/img.bfashion.com\/products\/presentation\/ffeeea3390dac8f67fea717c490e7187f44c37c6.jpg",
+		"main_image_high_res": "http:\/\/img.bfashion.com\/products\/big\/ffeeea3390dac8f67fea717c490e7187f44c37c6.jpg",
+		"images": [],
+		"variants": []
+	}, {
+		"id": 5999656,
+		"remote_id": 21060,
+		"url": "http:\/\/cz.bfashion.com\/boty-z-prave-kuze\/alexander-krist-d%C3%A1msk%C3%A9-+n%C3%ADzk%C3%A9-+boty-+z+-+prav%C3%A9-+k%C5%AF%C5%BEe-alexander-krist-21060",
+		"name": "Ladies Shoes made of genuine leather",
+		"price": 1995,
+		"price_formatted": "$1,995.00",
+		"category": 67049,
+		"brand": "Alexander Krist",
+		"discount_price": 999,
+		"discount_price_formatted": "$999.00",
+		"currency": "USD",
+		"code": "D021060",
+		"description": "You can add a description of the product to the feed and it will appear exactly here.",
+		"main_image": "http:\/\/img.bfashion.com\/products\/presentation\/66761d63853c1d9ef7a42a80fd108c65b5acdae8.jpg",
+		"main_image_high_res": "http:\/\/img.bfashion.com\/products\/big\/66761d63853c1d9ef7a42a80fd108c65b5acdae8.jpg",
+		"images": [],
+		"variants": []
+	}, {
+		"id": 5999655,
+		"remote_id": 21054,
+		"url": "http:\/\/cz.bfashion.com\/boty-z-prave-kuze\/alexander-krist-d%C3%A1msk%C3%A9-+n%C3%ADzk%C3%A9+-boty-+z+-+prav%C3%A9+k%C5%AF%C5%BEe-alexander-krist-21054",
+		"name": "Ladies Shoes made of genuine leather",
+		"price": 1995,
+		"price_formatted": "$1,995.00",
+		"category": 67049,
+		"brand": "Alexander Krist",
+		"discount_price": 949,
+		"discount_price_formatted": "$949.00",
+		"currency": "USD",
+		"code": "D021054",
+		"description": "You can add a description of the product to the feed and it will appear exactly here.",
+		"main_image": "http:\/\/img.bfashion.com\/products\/presentation\/209c8bece0611c31aded590465df67a346095e94.jpg",
+		"main_image_high_res": "http:\/\/img.bfashion.com\/products\/big\/209c8bece0611c31aded590465df67a346095e94.jpg",
+		"images": [],
+		"variants": []
+	}]
+}

@@ -1,0 +1,171 @@
+{
+	"id": 6001629,
+	"remote_id": 38447,
+	"url": "http:\/\/cz.bfashion.com\/boty-z-prave-kuze\/tendenz-d%C3%A1msk%C3%A9-tenisky-z-prav%C3%A9-k%C5%AF%C5%BEe-38447",
+	"name": "Womens sneakers made of genuine leather",
+	"price": 799,
+	"price_formatted": "$799.00",
+	"category": 67049,
+	"brand": "TENDENZ",
+	"discount_price": 799,
+	"discount_price_formatted": "$799.00",
+	"currency": "USD",
+	"code": "D038447",
+	"description": "You can add a description of the product to the feed and it will appear exactly here.",
+	"main_image": "http:\/\/img.bfashion.com\/products\/big\/59e96a68155afc4afa84e641fbbe9389.jpg",
+	"images": [],
+	"variants": [{
+		"id": 6021979,
+		"color": {
+			"id": 38340,
+			"remote_id": 99,
+			"value": "Blue-white",
+			"code": "",
+			"img": "http:\/\/img.bfashion.com\/color\/original\/62b477526aeb8eb191182bd1b56681dabc5873bb.png"
+		},
+		"size": {
+			"id": 36771,
+			"remote_id": 22,
+			"value": "36"
+		},
+		"images": ["http:\/\/img.bfashion.com\/products\/big\/59e96a68155afc4afa84e641fbbe9389.jpg", "http:\/\/img.bfashion.com\/products\/big\/13973c0a8c29499bf3e43b42a0ee68d4.jpg", "http:\/\/img.bfashion.com\/products\/big\/fae0ff39eb15676bed178b91121cd218.jpg", "http:\/\/img.bfashion.com\/products\/big\/02589cc12d00b4417e8c6d496cbd85f5.jpg", "http:\/\/img.bfashion.com\/products\/big\/bba6333929821e039c4ecdd630fbe3a9.jpg"],
+		"code": "D038447-093-36"
+	}, {
+		"id": 6021981,
+		"color": {
+			"id": 38340,
+			"remote_id": 99,
+			"value": "Blue-white",
+			"code": "",
+			"img": "http:\/\/img.bfashion.com\/color\/original\/62b477526aeb8eb191182bd1b56681dabc5873bb.png"
+		},
+		"size": {
+			"id": 36772,
+			"remote_id": 23,
+			"value": "37"
+		},
+		"images": ["http:\/\/img.bfashion.com\/products\/big\/59e96a68155afc4afa84e641fbbe9389.jpg", "http:\/\/img.bfashion.com\/products\/big\/13973c0a8c29499bf3e43b42a0ee68d4.jpg", "http:\/\/img.bfashion.com\/products\/big\/fae0ff39eb15676bed178b91121cd218.jpg", "http:\/\/img.bfashion.com\/products\/big\/02589cc12d00b4417e8c6d496cbd85f5.jpg", "http:\/\/img.bfashion.com\/products\/big\/bba6333929821e039c4ecdd630fbe3a9.jpg"],
+		"code": "D038447-093-37"
+	}, {
+		"id": 6021982,
+		"color": {
+			"id": 38340,
+			"remote_id": 99,
+			"value": "Blue-white",
+			"code": "",
+			"img": "http:\/\/img.bfashion.com\/color\/original\/62b477526aeb8eb191182bd1b56681dabc5873bb.png"
+		},
+		"size": {
+			"id": 36773,
+			"remote_id": 24,
+			"value": "38"
+		},
+		"images": ["http:\/\/img.bfashion.com\/products\/big\/59e96a68155afc4afa84e641fbbe9389.jpg", "http:\/\/img.bfashion.com\/products\/big\/13973c0a8c29499bf3e43b42a0ee68d4.jpg", "http:\/\/img.bfashion.com\/products\/big\/fae0ff39eb15676bed178b91121cd218.jpg", "http:\/\/img.bfashion.com\/products\/big\/02589cc12d00b4417e8c6d496cbd85f5.jpg", "http:\/\/img.bfashion.com\/products\/big\/bba6333929821e039c4ecdd630fbe3a9.jpg"],
+		"code": "D038447-093-38"
+	}, {
+		"id": 6021983,
+		"color": {
+			"id": 38340,
+			"remote_id": 99,
+			"value": "Blue-white",
+			"code": "",
+			"img": "http:\/\/img.bfashion.com\/color\/original\/62b477526aeb8eb191182bd1b56681dabc5873bb.png"
+		},
+		"size": {
+			"id": 36774,
+			"remote_id": 25,
+			"value": "39"
+		},
+		"images": ["http:\/\/img.bfashion.com\/products\/big\/59e96a68155afc4afa84e641fbbe9389.jpg", "http:\/\/img.bfashion.com\/products\/big\/13973c0a8c29499bf3e43b42a0ee68d4.jpg", "http:\/\/img.bfashion.com\/products\/big\/fae0ff39eb15676bed178b91121cd218.jpg", "http:\/\/img.bfashion.com\/products\/big\/02589cc12d00b4417e8c6d496cbd85f5.jpg", "http:\/\/img.bfashion.com\/products\/big\/bba6333929821e039c4ecdd630fbe3a9.jpg"],
+		"code": "D038447-093-39"
+	}, {
+		"id": 6021984,
+		"color": {
+			"id": 38340,
+			"remote_id": 99,
+			"value": "Blue-white",
+			"code": "",
+			"img": "http:\/\/img.bfashion.com\/color\/original\/62b477526aeb8eb191182bd1b56681dabc5873bb.png"
+		},
+		"size": {
+			"id": 36775,
+			"remote_id": 26,
+			"value": "40"
+		},
+		"images": ["http:\/\/img.bfashion.com\/products\/big\/59e96a68155afc4afa84e641fbbe9389.jpg", "http:\/\/img.bfashion.com\/products\/big\/13973c0a8c29499bf3e43b42a0ee68d4.jpg", "http:\/\/img.bfashion.com\/products\/big\/fae0ff39eb15676bed178b91121cd218.jpg", "http:\/\/img.bfashion.com\/products\/big\/02589cc12d00b4417e8c6d496cbd85f5.jpg", "http:\/\/img.bfashion.com\/products\/big\/bba6333929821e039c4ecdd630fbe3a9.jpg"],
+		"code": "D038447-093-40"
+	}, {
+		"id": 6021980,
+		"color": {
+			"id": 38340,
+			"remote_id": 99,
+			"value": "Blue-white",
+			"code": "",
+			"img": "http:\/\/img.bfashion.com\/color\/original\/62b477526aeb8eb191182bd1b56681dabc5873bb.png"
+		},
+		"size": {
+			"id": 36776,
+			"remote_id": 27,
+			"value": "41"
+		},
+		"images": ["http:\/\/img.bfashion.com\/products\/big\/59e96a68155afc4afa84e641fbbe9389.jpg", "http:\/\/img.bfashion.com\/products\/big\/13973c0a8c29499bf3e43b42a0ee68d4.jpg", "http:\/\/img.bfashion.com\/products\/big\/fae0ff39eb15676bed178b91121cd218.jpg", "http:\/\/img.bfashion.com\/products\/big\/02589cc12d00b4417e8c6d496cbd85f5.jpg", "http:\/\/img.bfashion.com\/products\/big\/bba6333929821e039c4ecdd630fbe3a9.jpg"],
+		"code": "D038447-093-41"
+	}],
+	"related": [{
+		"id": 6001624,
+		"name": "Women's shoes made of genuine leather",
+		"price": 749,
+		"price_formatted": "$749.00",
+		"discount_price": 749,
+		"discount_price_formatted": "$749.00",
+		"main_image": "http:\/\/img.bfashion.com\/products\/presentation\/a3c6a7dc063072e3ac46bcb12561d040.jpg"
+	}, {
+		"id": 6001625,
+		"name": "Women's shoes made of genuine leather",
+		"price": 799,
+		"price_formatted": "$799.00",
+		"discount_price": 799,
+		"discount_price_formatted": "$799.00",
+		"main_image": "http:\/\/img.bfashion.com\/products\/presentation\/92e4001452162748d835396c87f6d96a.jpg"
+	}, {
+		"id": 6001631,
+		"name": "Female summer shoes made of genuine leather",
+		"price": 749,
+		"price_formatted": "$749.00",
+		"discount_price": 749,
+		"discount_price_formatted": "$749.00",
+		"main_image": "http:\/\/img.bfashion.com\/products\/presentation\/161ff9e3127f5c631bebbb56fd238f6f.jpg"
+	}, {
+		"id": 5999796,
+		"name": "High heels",
+		"price": 1799,
+		"price_formatted": "$1,799.00",
+		"discount_price": 719,
+		"discount_price_formatted": "$719.00",
+		"main_image": "http:\/\/img.bfashion.com\/products\/presentation\/ffeeea3390dac8f67fea717c490e7187f44c37c6.jpg"
+	}, {
+		"id": 5999655,
+		"name": "Ladies Shoes made of genuine leather",
+		"price": 1995,
+		"price_formatted": "$1,995.00",
+		"discount_price": 949,
+		"discount_price_formatted": "$949.00",
+		"main_image": "http:\/\/img.bfashion.com\/products\/presentation\/209c8bece0611c31aded590465df67a346095e94.jpg"
+	}, {
+		"id": 6001626,
+		"name": "Women's shoes made of genuine leather",
+		"price": 799,
+		"price_formatted": "$799.00",
+		"discount_price": 799,
+		"discount_price_formatted": "$799.00",
+		"main_image": "http:\/\/img.bfashion.com\/products\/presentation\/9b2301b00bc2aa9fbe087bccaf2b0128.jpg"
+	}, {
+		"id": 5999656,
+		"name": "Ladies Shoes made of genuine leather",
+		"price": 1995,
+		"price_formatted": "$1,995.00",
+		"discount_price": 999,
+		"discount_price_formatted": "$999.00",
+		"main_image": "http:\/\/img.bfashion.com\/products\/presentation\/66761d63853c1d9ef7a42a80fd108c65b5acdae8.jpg"
+	}]
+}
